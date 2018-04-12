@@ -1,0 +1,81 @@
+/* Container to Define the size of the whole Page*/
+
+.container {
+	width: 800px;
+	margin:	auto;
+	padding: 0px 50px;
+	box-shadow: 0px 5px 0px 5px rgba(211,211,211, 0.5);
+}
+
+/*Change the color of all P and LI elements*/
+
+p, li {
+	color: #707070;
+}
+
+/* ALign text to the center in the header*/
+
+header {
+	text-align: center;
+}
+
+/*h1 Styling*/
+
+h1 {
+	color: #DB0038;
+}
+/*h2 Styling*/
+
+h2 {
+	color: #3998A3;
+}
+
+/*h3 Styling*/
+
+h3 {
+	color: #474747;
+}
+
+/*styling for the div container with class hero*/
+
+.hero {
+	background-color: #f4f4f4;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+/*padding for list elements*/
+
+li {
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+/*Styling the Rating system*/
+
+.checked {
+	color: #F4B400;
+}
+
+/*Align the Size and the outer color of the stars*/
+.fa fa-star {
+	color: #F4B400;
+	font-size: 25px;
+}
+
+/* Align the rating in the center*/
+.rating {
+	text-align: center;
+}
+
+/*Center the Content in the footer*/
+
+footer {
+	text-align: center;
+}
+
+/*Changing the font for everything*/
+
+body {
+	font-family: Droid Serif;
+}
